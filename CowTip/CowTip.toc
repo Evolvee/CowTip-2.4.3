@@ -1,0 +1,25 @@
+## Interface: 20400
+## Title: CowTip 3.0
+## Notes: Tooltip of awesomeness. Moo. It'll graze your pasture.
+## Notes-zhTW: ???????????????????????
+## Notes-frFR: Infobulles personnalisées. Meuh. J'aime regarder les train passer.
+## Author: ckknight, edited by Evolve
+## X-eMail: ckknight AT gmail DOT com
+## X-Website: http://www.wowace.com/
+## X-Category: Interface Enhancements
+## SavedVariables: CowTipDB
+## OptionalDeps: LibRock-1.0, RangeCheck-1.0, LibTalentQuery-1.0, LibSharedMedia-3.0,
+## X-WoWIPortal: ckknight
+## X-License: GPL v2 or later
+## X-Donate: PayPal:ckknight AT gmail DOT com
+
+embeds.xml
+
+CowTip.lua
+Appearance\Appearance.lua
+Fade\Fade.lua
+HealthBar\HealthBar.lua
+Position\Position.lua
+PowerBar\PowerBar.lua
+RaidTargetIcon\RaidTargetIcon.lua
+Text\Text.lua

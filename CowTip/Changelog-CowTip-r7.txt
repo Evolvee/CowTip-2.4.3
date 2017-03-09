@@ -1,0 +1,69 @@
+------------------------------------------------------------------------
+r7 | nevcairiel | 2008-10-12 21:53:55 +0000 (Sun, 12 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/CowTip.toc
+
+Fix typo in the .toc
+------------------------------------------------------------------------
+r6 | nevcairiel | 2008-10-12 21:43:20 +0000 (Sun, 12 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/PowerBar/PowerBar.lua
+
+Copy/Pasta is bad, hmkay
+------------------------------------------------------------------------
+r5 | nevcairiel | 2008-10-12 21:42:42 +0000 (Sun, 12 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/PowerBar/PowerBar.lua
+
+Fix this thing too
+------------------------------------------------------------------------
+r4 | nevcairiel | 2008-10-12 21:40:34 +0000 (Sun, 12 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/HealthBar/HealthBar.lua
+
+Fix Stans mess
+------------------------------------------------------------------------
+r3 | stanzilla | 2008-10-12 20:46:32 +0000 (Sun, 12 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/.pkgmeta
+   M /trunk/Appearance/Appearance.lua
+   M /trunk/CowTip.toc
+   M /trunk/HealthBar/HealthBar.lua
+   M /trunk/PowerBar/PowerBar.lua
+   M /trunk/embeds.xml
+
+LibSharedMedia-3.0 and Runic Power for DKs
+------------------------------------------------------------------------
+r2 | root | 2008-09-29 21:40:33 +0000 (Mon, 29 Sep 2008) | 1 line
+Changed paths:
+   A /trunk/.pkgmeta
+
+Facilitate WowAce-on-CurseForge transition
+------------------------------------------------------------------------
+r1 | root | 2008-09-29 21:18:53 +0000 (Mon, 29 Sep 2008) | 1 line
+Changed paths:
+   A /branches
+   A /tags
+   A /trunk
+   A /trunk/Appearance
+   A /trunk/Appearance/Appearance.lua
+   A /trunk/CowTip.lua
+   A /trunk/CowTip.toc
+   A /trunk/Fade
+   A /trunk/Fade/Fade.lua
+   A /trunk/HealthBar
+   A /trunk/HealthBar/HealthBar.lua
+   A /trunk/Position
+   A /trunk/Position/Position.lua
+   A /trunk/PowerBar
+   A /trunk/PowerBar/PowerBar.lua
+   A /trunk/RaidTargetIcon
+   A /trunk/RaidTargetIcon/RaidTargetIcon.lua
+   A /trunk/Text
+   A /trunk/Text/Text.lua
+   A /trunk/embeds.xml
+   A /trunk/icon.tga
+   A /trunk/libs
+
+Initial import of HEAD
+------------------------------------------------------------------------
